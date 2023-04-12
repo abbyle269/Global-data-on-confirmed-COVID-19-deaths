@@ -1,4 +1,6 @@
-After you successfully imported all Excel files to SSMS, you found that there is only Null values in your results after queries while your original Excel files didn't have Null values
+After you successfully imported all Excel files to SSMS, you found that there is only Null values in your results after queries. While your original Excel files didn't have Null values.
+
+Solution:
 
 From your Excel file
 
