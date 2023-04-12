@@ -1,0 +1,6 @@
+After you successfully imported all Excel files to SSMS, you found that there is only Null values in your results after queries while your original Excel files didn't have Null values
+
+From your Excel file
+
+Select columns that contain Null values - right click - format cells
+
