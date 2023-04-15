@@ -10,5 +10,3 @@ https://www.tableau.com/products/public/download
 ![image](https://user-images.githubusercontent.com/48614949/232226793-19189425-d12f-4835-90fa-d793ed9c9cdf.png)
 
 
-
-
