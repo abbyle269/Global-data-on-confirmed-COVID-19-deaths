@@ -1,1 +1,1 @@
-After analyse date using SQL, we can extract results to different Excel files 
+
