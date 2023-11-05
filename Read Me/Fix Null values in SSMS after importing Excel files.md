@@ -6,5 +6,5 @@ From your Excel file
 
 Select columns that contain Null values - right click - format cells - texts - OK.
 
-For some specific columns, to make sure its format is correct, you should copy columns one by one to a new Notepad. Then copy the date from Notepad back to Excel file. 
+For some specific columns, to make sure its format is correct, you should copy columns one by one to a new Notepad. Then copy the data from Notepad back to Excel file. 
 
